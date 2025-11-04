@@ -1,7 +1,6 @@
 # AI-Powered Notion CRUD App - Complete Setup Guide
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7a42be49-638d-48bf-a7fc-7b1bacc4b0d0/deploy-status)](https://app.netlify.com/sites/7a42be49-638d-48bf-a7fc-7b1bacc4b0d0/deploys)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5384015c-2b01-48a8-9c37-d3cbdf18d4b8/deploy-status)](https://app.netlify.com/projects/ai-magic-crud/deploys)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://notion.so)
 
 Create professional Notion databases and web applications powered by AI! This guide will help you set up an AI-powered CRUD application that lets you create databases through natural language chat, manage multiple databases, and build beautiful web interfaces - all without writing code.
