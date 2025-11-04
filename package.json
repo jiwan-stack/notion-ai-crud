@@ -11,7 +11,7 @@
     "enable-blobs": "node enable-blobs.js",
     "postinstall": "node enable-blobs.js"
   },
-  "keywords": [],
+  "keywords": ["Notion web app", "AI-powered Notion database", "Notion CRUD application", "Notion API integration", "Gemini AI integration", "serverless web application", "Netlify deployment", "no-code web development", "Notion automation", "database web interface", "AI database creation", "multi-language Notion app", "Notion integration setup", "natural language database creation"],
   "author": "",
   "license": "ISC",
   "description": "A comprehensive Netlify-based service that acts as a proxy to the Notion API, with direct file uploads and automated notifications",
